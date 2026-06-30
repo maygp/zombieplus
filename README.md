@@ -1,1 +1,1 @@
-Repositório para o curso Playwright Zombie
+Repositório criado para o curso Playwright Zombie
